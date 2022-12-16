@@ -1,5 +1,5 @@
 # ninetailed-vue-resources
-A collection of resources for the FactSet team in implementing Ninetailed with Vue
+A collection of resources engineering teams to implement Ninetailed with Vue
 
 This repository contains resources for setting up Ninetailed within an Vue (2) application. The repository is divided into three parts:
 
